@@ -1,4 +1,2 @@
 # html5_music_player
-HTML5 MUSIC PLAYER
-11111
-ssssss
+demo地址：http://www.feelcss.com/demo/html5-player/music-player.html
